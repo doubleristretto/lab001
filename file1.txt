@@ -1,2 +1,3 @@
 this is line 1
 this is line 2 of the file 
+this is line 3
